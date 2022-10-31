@@ -1,4 +1,4 @@
-# Mohamed omar GCP-Final-Project
+# Omar GCP-Final-Project
 
 ### For the terraform code
   * $ terraform init
