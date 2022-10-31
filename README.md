@@ -32,8 +32,8 @@
 ### get the load balancer IP and port
 
 
-![Screenshot from 2022-10-31 11-50-00](https://github.com/OmarMFathy219/GCP-Final-Project-For-ITI blob/master/Screenshots/GKE.png)
+![Screenshot from 2022-10-31 11-50-00](https://github.com/OmarMFathy219/GCP-Final-Project-For-ITI/blob/master/Screenshots/GKE.png)
 
-![Screenshot from 2022-10-31 11-50-00](https://github.com/OmarMFathy219/GCP-Final-Project-For-ITI blob/master/Screenshots/Prod.png)
+![Screenshot from 2022-10-31 11-50-00](https://github.com/OmarMFathy219/GCP-Final-Project-For-ITI/blob/master/Screenshots/Prod.png)
 
 
